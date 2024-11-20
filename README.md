@@ -1,6 +1,6 @@
 # こんにちは！👋
 
-🌟 **TomXVです。**
+🌟 **Tom_XV です。**
 
 ## 🛠️ 好きなプログラミング言語とツール
 
@@ -17,6 +17,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=Neovim&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=white)
@@ -40,6 +41,7 @@
 - 🛠️ **共同プロジェクトでは、ツールの利便性やコアなシステムを自発的に開発しています。**
 - 🎯 **効率的でクリーンなコードを書くことを心がけ、最適なソリューションを追求しています。**
 - 🌐 **開発だけでなく、ネットワークやデータベース、セキュリティにも関心があります。**
+- 📫 **お気軽にご連絡ください！**
 
 ## 📊 GitHub統計
 
